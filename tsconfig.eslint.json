@@ -1,0 +1,13 @@
+{
+  "extends": "./tsconfig.json",
+  "include": [
+    "src/**/*.js",
+    "src/**/*.ts",
+    "src/**/*.vue",
+	  "*.js"
+  ],
+  "compilerOptions": {
+    "allowJs": true,
+    "checkJs": true
+  }
+}

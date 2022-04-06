@@ -1,0 +1,8 @@
+node_modules
+*.log
+.nuxt
+.idea
+nuxt.d.ts
+.output
+.env
+/_versionsdata/
