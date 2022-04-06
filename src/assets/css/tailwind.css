@@ -10,3 +10,9 @@
         @apply text-xl;
     }
 }
+
+@layer components {
+    .versions-table td {
+        @apply p-2 border ;
+    }
+}
